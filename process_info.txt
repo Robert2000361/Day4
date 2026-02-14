@@ -1,0 +1,5 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+u1         15425    5676 99 16:44 pts/0    00:11:28 cat /dev/zero
+=== Niceness Verification ===
+    PID  NI CMD
+  15425  12 cat /dev/zero
